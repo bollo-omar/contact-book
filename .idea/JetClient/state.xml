@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="24271e6f-b4a8-4006-ac8e-dd116ccbbdd7" />
+          <option name="name" value="contacts" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="body">
+                  <bodyState>
+                    <option name="raw" value="{&#10;  &quot;firstname&quot; : &quot;Jude&quot;,&#10;  &quot;lastname&quot; : &quot;Owino&quot;,&#10;  &quot;address&quot; : &quot;123 Camp Victory&quot;,&#10;  &quot;phone&quot; : &quot;0720010267&quot;,&#10;  &quot;email&quot; : &quot;jude@gmail.com&quot;&#10;}" />
+                    <option name="type" value="JSON" />
+                  </bodyState>
+                </option>
+                <option name="headers">
+                  <list>
+                    <headerState>
+                      <option name="key" value="Content-Type" />
+                      <option name="value" value="application/json" />
+                    </headerState>
+                  </list>
+                </option>
+                <option name="id" value="6e284df3-994d-4ba3-9fd0-23b5482e55b7" />
+                <option name="method" value="POST" />
+                <option name="name" value="create contact" />
+                <option name="url" value="http://localhost:8000/api/v1/contacts" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="D:\contact-book\.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
+    <option name="id" value="a9d61608-3b15-4638-94ac-d13abc4b8a57" />
+  </component>
+</project>
