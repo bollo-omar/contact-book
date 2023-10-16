@@ -48,11 +48,11 @@ This repository contains the source code for a REST API built using Node.js that
 
 ## Endpoints
 
-- `GET /contacts`: Fetch all contacts.
-- `GET /contacts/:id`: Fetch a specific contact by ID.
-- `POST /contacts`: Add a new contact.
-- `PUT /contacts/:id`: Update an existing contact.
-- `DELETE /contacts/:id`: Delete a contact by ID.
+- `GET /api/v1/contacts`: Fetch all contacts.
+- `GET /api/v1/contacts/:id`: Fetch a specific contact by ID.
+- `POST /api/v1/contacts`: Add a new contact.
+- `PUT /api/v1/contacts/:id`: Update an existing contact.
+- `DELETE /api/v1/contacts/:id`: Delete a contact by ID.
 
 For detailed information on how to use each endpoint, refer to the API documentation.
 [Postman](https://documenter.getpostman.com/view/26352711/2s9YR6bEcM)
